@@ -13,3 +13,34 @@ git commit -m '첫번째commit'
 
 git remote add origin git@github.com:Hello-World.git
 git push origin master
+
+
+
+Global setup:
+ Set up git
+  git config --global user.name "Your Name"
+  git config --global user.email namjoooooo@gmail.com
+      
+Next steps:
+  mkdir Hello-World
+  cd Hello-World
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:fttvoid/Hello-World.git
+  git push -u origin master
+      
+Existing Git Repo?
+  cd existing_git_repo
+  git remote add origin git@github.com:fttvoid/Hello-World.git
+  git push -u origin master
+      
+Importing a Subversion Repo?
+  Click here
+      
+When you're done:
+  Continue
+
+
+리드미파일 수정
