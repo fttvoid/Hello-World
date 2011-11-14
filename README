@@ -9,7 +9,7 @@ touch README
 2. Commit your README
 
 git add README
-git commit -m 'Ã¹¹øÂ°commit'
+git commit -m 'ì²«ë²ˆì§¸commit'
 
 git remote add origin git@github.com:Hello-World.git
 git push origin master
@@ -43,4 +43,5 @@ When you're done:
   Continue
 
 
-¸®µå¹ÌÆÄÀÏ ¼öÁ¤
+ë¦¬ë“œë¯¸íŒŒì¼ ìˆ˜ì •
+UTF-8ë¡œ ìˆ˜ì •í•´ë´„
